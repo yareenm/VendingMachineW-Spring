@@ -1,0 +1,13 @@
+CocaCola,1.99,13
+abc,1.98,7
+Yeni Raki,8.0,0
+Potato Chip,3.49,97
+Pepsi,1.99,6
+Ayran,4.5,9
+Cheetos,2.99,-100
+Snickers Bar,0.99,11
+Pringles,3.99,4
+Canada Dry,2.49,5
+Mountain Dew,5.99,14
+Gum,0.49,6
+Salgam,3.5,0
